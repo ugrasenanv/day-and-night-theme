@@ -1,0 +1,5 @@
+/* Add application styles & imports to this file! */
+
+@import './resources/styles/themes/default.css';
+@import './resources/styles/themes/dark.css';
+@import './resources/styles/base.css';
